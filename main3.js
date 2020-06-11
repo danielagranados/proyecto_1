@@ -1,3 +1,3 @@
 function function_name(argument) {
-	renderizando la grafica..
+	renderizando la grafica 3..
 }	
